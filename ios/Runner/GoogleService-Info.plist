@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114321785938-f9u3kagf68n24fdcfbcep37f5js85e1h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114321785938-f9u3kagf68n24fdcfbcep37f5js85e1h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>114321785938-h964esnn41bjjpbmnsg19i65bgurvptm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNMxI0MDYT9rFVx0JDWff0kuBnfaG5ews</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114321785938</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chatu</string>
+	<key>PROJECT_ID</key>
+	<string>chatu-56a4e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatu-56a4e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114321785938:ios:fe564806530d3473e14b8b</string>
+</dict>
+</plist>
